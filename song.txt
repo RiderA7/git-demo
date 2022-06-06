@@ -8,9 +8,3 @@ ddssh
 6кар8р
 р
 
-another branch
-
-
-another feature
-
-for merge
